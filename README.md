@@ -1,3 +1,5 @@
+# This library is deprecated, please use [rollbar-php](https://github.com/rollbar/rollbar-php)
+
 ratchetio-php
 ===========
 
